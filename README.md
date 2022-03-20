@@ -5,7 +5,7 @@ React JS Project which shows table of countries with info about them
 * Embedded Search Bar to choose country and click on it for detailed info
 * Table with the countries 
 * Choose country from the table by holding left mouse click on it's name, to open the detail info modal
-** When holding the left mouse button, there is visible progress bar, showing the time left to open the detail modal
+* When holding the left mouse button, there is visible progress bar, showing the time left to open the detail modal
 * Table can be sorted and filtered by name, order and pagination
 
 ### Uses:
